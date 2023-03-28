@@ -19,3 +19,11 @@ This assestment contains:
   
   With these 5 files the 3 first points of the assestments can be done. The code is not yet runable as I didnt want to spend more than 2 hours on it.
   
+  
+  As well two CSV files are updated as an example for products and Establishments
+  
+  
+  The code is not fully completed and it needs to be tested. I think for the refinement the main file shouldnt contain all the SQL commands. These interaction between API and DB can be done with 2-3 additional files product.py, establishment.py, utils.py where all the requests are given.
+  
+  I used FastAPI as it is better as the documentation is built-in and it can help the user understand with the help of OpenAPI the methods written.
+  
